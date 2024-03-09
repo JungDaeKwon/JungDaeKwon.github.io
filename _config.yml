@@ -95,8 +95,8 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics 
-analytics: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+analytics:  # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-3F7PCF1W2M"
     anonymize_ip         : false # true, false (default)
@@ -116,9 +116,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JungDaeKwon"
-    # - label: "LinkedIn"
-    #   icon: "fab fa-fw fa-linkedin"
-    #   url: "https://www.linkedin.com/in/jung-dae-kwon/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jung-dae-kwon/"
 
 # Site Footer
 footer:
@@ -126,9 +126,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JungDaeKwon"
-    # - label: "LinkedIn"
-    #   icon: "fab fa-fw fa-linkedin"
-    #   url: "https://www.linkedin.com/in/jung-dae-kwon/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jung-dae-kwon/"
 
 
 # Reading Files
