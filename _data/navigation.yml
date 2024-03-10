@@ -6,8 +6,8 @@ main:
     url: /search/
   # - title: "About"
   #   url: /about/
-  # -title: "Tag"
-  #   url: /tags/
+  -title: "Tag"
+    url: /tags/
 
 # counts:
 #   -title: "Category"
