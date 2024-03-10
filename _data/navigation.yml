@@ -2,15 +2,15 @@
 main:
   - title: "Category"
     url: /categories/
-  - title: "Serach"
+  - title: "Search"
     url: /search/
   # - title: "About"
   #   url: /about/
   -title: "Tag"
     url: /tags/
 
-# counts:
-#   -title: "Category"
-#    use: false
-#   -title: "Tag"
-#     use: false 
+counts:
+  -title: "Category"
+   use: false
+  -title: "Tag"
+   use: false 
