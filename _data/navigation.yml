@@ -7,4 +7,8 @@ main:
   # - title: "About"
   #   url: /about/
 
- 
+counts:
+  -title: "Category"
+   use: false
+  -title: "Tag"
+    use: false 
