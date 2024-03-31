@@ -110,6 +110,9 @@ author:
   location         : "Moncton NB Canada"
   email            : jungdaekwon2@gmail.com
   links:
+    - label: "Portfolio-Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://portfolio-website-jung.netlify.app/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JungDaeKwon"
